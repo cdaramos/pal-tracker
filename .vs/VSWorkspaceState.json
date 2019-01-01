@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\databases",
+    "\\databases\\tracker",
+    "\\databases\\tracker\\migrations"
+  ],
+  "SelectedNode": "\\databases\\tracker\\migrations\\V1__initial_schema.sql",
+  "PreviewInSolutionExplorer": false
+}
